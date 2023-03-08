@@ -12,7 +12,10 @@ gives information about overall strike rate, over run rate, match winning
 percentage and toss winning percentage for both the teams. </h5>
 </div>
 
-
+<div align="center">
+<h2 align="center">Model Dataset</h2>
+<a href="https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket?select=t20s" title="Download Dataset">Click Here For Download Dataset</a>
+</div>
 
 <div>
 <h2 align="center">Model</h2>
@@ -65,7 +68,7 @@ percentage and toss winning percentage for both the teams. </h5>
 
 
 
-| Team Name      | Click For Vist | 
+| Team Name      | Click For Visit | 
 | :---:        |    :----   |  
 | India      | [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGU2OWFiYTItMjdjMy00OTVlLTlhNmItOWY1YTVlMTY0ODMwIiwidCI6IjhkNDZhMDc2LWQwOTMtNDE2ZC1hNTdiLTg2OTJjZGUxM2JmOCIsImMiOjEwfQ%3D%3D) 
 | Pakistan      | [Click Here](https://app.powerbi.com/view?r=eyJrIjoiODk5MDEzYjQtNzBhOC00Mjc0LTg2MjYtNzVjODQyMGY5ODE4IiwidCI6IjhkNDZhMDc2LWQwOTMtNDE2ZC1hNTdiLTg2OTJjZGUxM2JmOCIsImMiOjEwfQ%3D%3D) | 
