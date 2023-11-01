@@ -2,6 +2,22 @@
 <img width="150px" alt="t200" class="center" src="https://user-images.githubusercontent.com/91408179/223676080-c1a7303f-86aa-4f54-bb46-f1b4b9c5bf19.png">
 </p>
 <h1 align="center", margin-top: 20em;>T20 World Cup 2022 Analysis</h1>
+
+
+<div>
+  <h3>Project Summary</h3>
+  <p><b>1. Situation:</b><br>➼ Gathered and prepared a decade of T20 cricket data from Kaggle and four years of data from two independent sources in Excel for analysis.</p>
+  <p><b>2. Task:</b><br>➼ Built a robust linear regression model in Jupyter Notebook that outperformed the next best projection by 20%.<br>
+➼ Visualized four years of T20 match data for two teams, providing insights on strike rates, run rates, match-winning percentages, and toss-winning percentages.</p>
+  <p><b>3. Action:</b><br>➼ Utilized Python and Linear Regression to achieve an impressive 80% accuracy in match outcome predictions.<br>
+➼ Led the data collection and extraction process, ensuring alignment with industry best practices.<br>
+➼ Employed Power BI for data manipulation, basic analysis, and generating actionable insights and recommendations.</p>
+  <p><b>4. Results:</b><br>➼ Developed a high-accuracy predictive model.<br>
+➼ Provided valuable insights into T20 match statistics.<br>
+➼ Demonstrated strong analytical, data visualization, and predictive modeling skills.</p>
+</div>
+
+
 <div>
 <h2 align="center">Project Explanation</h2>
 <h5 align="left">⦿ Collected and prepared 10 years of T20 data from Kaggle website for building machine learning model and collated 4 years of T20 data from 2 independent sources in Excel for data visualization.</h5>
